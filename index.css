@@ -1,93 +1,66 @@
 #content {
-              font-size: 40px}
-
-		
-a{
-    font-size: 200%;
-  color:#cc3300;
-    text-align: center;
+font-size : 40px;
 }
-			#nav, #footer, #option {
-			    text-align: center;
-			
-				padding: 0.5em 0;}
-
+a {
+font-size : 200%;
+color : #cc3300;
+text-align : center;
+}
+#nav, #footer, #option {
+text-align : center;
+padding : 0.5em 0;
+}
 body, html {
-background-image: url("https://images.unsplash.com/photo-1519781584827-97009e7f000c?ixlib=rb-0.3.5&s=255cc6068998317283e403dd67128c92");
- 
-    background-repeat: no-repeat;
-    background-size: cover;
-  background-attachment:fixed;
-  margin: 100;
-
-    padding-top: 50px;
-    padding-right: 80px;
-    padding-bottom: 50px;
-    padding-left: 30px;
-    position: relative;
+background-image : url("https://images.unsplash.com/photo-1519781584827-97009e7f000c?ixlib=rb-0.3.5&s=255cc6068998317283e403dd67128c92");
+background-repeat : no-repeat;
+background-size : cover;
+background-attachment : fixed;
+padding-top : 50px;
+padding-right : 80px;
+padding-bottom : 50px;
+padding-left : 30px;
+position : relative;
 }
-		
-			
-
-
-  
-h1{font-family: 'LobsterRegular'; 
-                 color:#996515;
-				text-align: center;
-                font-weight: bold; 
-                font-style: normal;
-                font-size: 800%;
-   margin: 0px;
-  padding: 0px;
-
-  
+h1 {
+font-family : 'LobsterRegular';
+color : #996515;
+text-align : center;
+font-weight : bold;
+font-style : normal;
+font-size : 800%;
+margin : 0;
+padding : 0;
 }
-
-
-h2{
-font-family: 'LobsterRegular';  
-    color: #8B4513;
-  	text-align: left;
-  position:right ;
-  
-	}
-
-
-  p{
-	      font-family:  'DancingScriptRegular';
-                  color: #080808;
-    padding: 70px;			
-	  text-align: left;
-      font-style: strong;
-    font-size: 150%;
+h2 {
+font-family : 'LobsterRegular';
+color : #8B4513;
+text-align : left;
 }
-	  
-  mark {
-   
-    color: yellow;
+p {
+font-family : 'DancingScriptRegular';
+color : #080808;
+padding : 70px;
+text-align : left;
+font-size : 150%;
 }
-  
-
-			li  {
-  text-align: center;
-				font-family: 'LobsterRegular';  
-                font-weight: normal; 
-                font-style: normal;
-              display: inline;
-				padding: 0.5em;
+mark {
+color : yellow;
 }
-
+li {
+text-align : center;
+font-family : 'LobsterRegular';
+font-weight : normal;
+font-style : normal;
+display : inline;
+padding : 0.5em;
+}
 h3 {
-  font-family: 'DancingScriptRegular';
-   background-color: #202020;
-   color: #8B4513;
-  font-weight: bold;
- font-size:300%;
-  font-weight: 900;
-  text-align: center;
-  margin: 0
-    
+font-family : 'DancingScriptRegular';
+background-color : #202020;
+color : #8B4513;
+font-weight : bold;
+font-size : 300%;
+font-weight : 900;
+text-align : center;
+margin : 0;
 }
-
-
-  
